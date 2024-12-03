@@ -1,0 +1,5 @@
+fsm_manual_sch.c:24:6:change_mode_sch	16	static
+fsm_manual_sch.c:33:6:display_buffer1	8	static
+fsm_manual_sch.c:46:6:display_buffer2	8	static
+fsm_manual_sch.c:60:6:displayDuration_sch	16	static
+fsm_manual_sch.c:72:6:fsm_manual_run_sch	8	static
